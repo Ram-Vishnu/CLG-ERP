@@ -26,6 +26,8 @@ Password : `12345678`
 7. View Student Attendance
 8. Review and Reply Student/Staff Feedback
 9. Review (Approve/Reject) Student/Staff Leave
+10. view staff addentance
+11. And staff and students convey the information for purpose( leave, on-duty , and some other purpose..)
 
 ### B. Staff/Teachers Can
 1. See the Overall Summary Charts related to their students, their subjects, leave status, etc.
